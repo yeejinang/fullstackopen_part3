@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.10ebf3b8.css","mappings":"AAAA,KAEC,kBAAqB,CAGrB,iBAAkB,CADlB,kBAAmB,CADnB,cAAe,CAIf,kBAAmB,CADnB,YAED","sources":["index.css"],"sourcesContent":[".msg {\n\t/* color: green; */\n\tbackground: lightgrey;\n\tfont-size: 20px;\n\tborder-style: solid;\n\tborder-radius: 5px;\n\tpadding: 10px;\n\tmargin-bottom: 10px;\n}"],"names":[],"sourceRoot":""}
